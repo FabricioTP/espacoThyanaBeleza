@@ -54,17 +54,17 @@ function Clientes() {
             <CardCliente 
                 img={cliente1} 
                 titulo="Encantada" 
-                texto="Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+                texto="Ficou super brilhoso, macio e exatamente como eu queria."
             />
             <CardCliente 
                 img={cliente2} 
                 titulo="Nunca me senti acolhida ao fazer cabelo" 
-                texto="Lorem ipsum dolor sit amet consectetur, adipisicing elit." 
+                texto="Atendimento maravilhoso e resultado perfeito." 
             />
             <CardCliente 
                 img={cliente3} 
                 titulo="Vou voltar de novo" 
-                texto="Lorem ipsum dolor sit amet consectetur, adipisicing elit." 
+                texto="Meu cabelo ficou incrível e todo mundo elogiou!" 
             />
         </div>
     );
